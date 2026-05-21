@@ -258,8 +258,8 @@ GenRx/
 
 I'm documenting this project on LinkedIn as I build it — sharing what I learn, what surprises me, and what I get wrong.
 
-- [LinkedIn — Phase 1: The data problem is harder than the ML problem](#)
-- [LinkedIn — Phase 1: Technical deep dive](#)
+- [LinkedIn — Phase 1: The data problem is harder than the ML problem](https://www.linkedin.com/feed/update/urn:li:activity:7452734759031488512/)
+- [LinkedIn — Phase 1: Technical deep dive](https://www.linkedin.com/feed/update/urn:li:activity:7453474766423793664/)
 
 ---
 
